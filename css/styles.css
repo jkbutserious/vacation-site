@@ -1,0 +1,9 @@
+.jumbotron {
+  background-image: url("https://tinyurl.com/yda67m42");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron h1 {
+  color: salmon;
+}
